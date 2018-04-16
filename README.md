@@ -1,4 +1,5 @@
-# Connect4 is two-player game,which consists of a game board of seven columns and six rows,color discs. In this game there are two players who take turns to drop the disc in a board  which falls straight down in the column where a player wants to place it.The first to form a horizontal or vertical or diagonal of its own disc wins the game.
+# Connect4
+Connect4 is two-player game,which consists of a game board of seven columns and six rows,color discs. In this game there are two players who take turns to drop the disc in a board  which falls straight down in the column where a player wants to place it.The first to form a horizontal or vertical or diagonal of its own disc wins the game.
 
 Explanation of Java code:
 
