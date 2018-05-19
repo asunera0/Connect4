@@ -3,7 +3,7 @@ Connect4 is two-player game,which consists of a game board of seven columns and 
 
 Explanation of Java code:
 
-●	Programming language: Java 8
+●	Programming language: Java 7
 ●	Tool : Eclipse Luna 4.2
 ●	Strategy used : Minimax Search Algorithm with heuristic evaluation 
 
